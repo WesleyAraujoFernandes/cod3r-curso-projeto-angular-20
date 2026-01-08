@@ -61,7 +61,7 @@
       "version": 92,
       "versionNonce": 1797448914,
       "isDeleted": false,
-      "boundElements": null,
+      "boundElements": [],
       "updated": 1767896114549,
       "link": null,
       "locked": false,
@@ -74,6 +74,98 @@
       "originalText": "Componente (html, css, js/ts)",
       "autoResize": true,
       "lineHeight": 1.25
+    },
+    {
+      "id": "FxwJCrDByg05p_KbPWRqF",
+      "type": "arrow",
+      "x": 343.3483049523512,
+      "y": 310.1211529448524,
+      "width": 135,
+      "height": 2,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1123977724,
+      "version": 18,
+      "versionNonce": 408354500,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767898526779,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          135,
+          -2
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
+    },
+    {
+      "id": "TvBqTGFQwcgiGcWlE4qqR",
+      "type": "arrow",
+      "x": 342.9334143714801,
+      "y": 243.20634412764457,
+      "width": 135,
+      "height": 2,
+      "angle": 0,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1468764284,
+      "version": 90,
+      "versionNonce": 853074500,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1767898544905,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          135,
+          -2
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false
     }
   ],
   "appState": {
