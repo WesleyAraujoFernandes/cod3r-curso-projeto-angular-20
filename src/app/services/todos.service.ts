@@ -11,4 +11,9 @@ export class TodosService {
     { id: crypto.randomUUID(), title: 'Revisar Código do Projeto', completed: false },
   ]);
   readonly items = this._items.asReadonly();
+
+  toggle(id: string) {
+    this._items.update((items) =>
+      items.map((item) => item.id === id ? { ...item, completed: !item.completed } : item))
+  }
 }
