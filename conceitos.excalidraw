@@ -1,0 +1,86 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "ixUJS938QUjrxPvAAVmGP",
+      "type": "rectangle",
+      "x": 441.869856441535,
+      "y": 211.0952036727036,
+      "width": 254.95689702163259,
+      "height": 129.05189854429756,
+      "angle": 6.279232758592836,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1371688466,
+      "version": 233,
+      "versionNonce": 1438881554,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "type": "text",
+          "id": "ySha1FUl16hyTZXqyHKGt"
+        }
+      ],
+      "updated": 1767896114549,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ySha1FUl16hyTZXqyHKGt",
+      "type": "text",
+      "x": 458.7383730065505,
+      "y": 250.62115294485238,
+      "width": 221.21986389160156,
+      "height": 50,
+      "angle": 6.279232758592836,
+      "strokeColor": "#ffffff",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 509040530,
+      "version": 92,
+      "versionNonce": 1797448914,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1767896114549,
+      "link": null,
+      "locked": false,
+      "text": "Componente (html, css,\njs/ts)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "center",
+      "verticalAlign": "middle",
+      "containerId": "ixUJS938QUjrxPvAAVmGP",
+      "originalText": "Componente (html, css, js/ts)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#000"
+  },
+  "files": {}
+}

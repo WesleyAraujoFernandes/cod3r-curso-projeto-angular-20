@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { Page } from "./components/shared/page/page";
 
 @Component({
   selector: 'app-root',
-  imports: [],
+  imports: [Page],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
