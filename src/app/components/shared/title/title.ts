@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, input } from '@angular/core';
 
 @Component({
   selector: 'app-title',
@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
   styleUrl: './title.css',
 })
 export class Title {
-
+  readonly main = input.required<string>();
+  readonly sub = input<string>();
 }
