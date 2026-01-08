@@ -13,4 +13,10 @@ export class Counter {
   increment() {
     this.count.update((n) => n + 1);
   }
+  decrement() {
+    this.count.update((n) => n - 1);
+  }
+  reset() {
+    this.count.set(0);
+  }
 }

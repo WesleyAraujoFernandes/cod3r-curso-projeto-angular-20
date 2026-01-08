@@ -1,7 +1,8 @@
 <div class="flex flex-col gap-6">
-  <app-title main="Lista de Tarefas" sub="Exemplo de lista de tarefas com Angular">
-    <div>
-      <p>A lista de tarefas está em desenvolvimento</p>
-    </div>
-  </app-title>
+  <app-title main="Lista de Tarefas" sub="Exemplo de lista de tarefas com Angular"></app-title>
+  <div>
+    @for (item of todos.items(); track item.id) {
+    <div>{{ item.title }}</div>
+    }
+  </div>
 </div>
