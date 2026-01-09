@@ -16,6 +16,10 @@
             {{ item.completed ? 'undo' : 'check_circle' }}
           </mat-icon>
         </button>
+        <button (click)="todos.remove(item.id)" class="btn btn-danger">
+          <mat-icon
+          fontSet="material-symbols-outlined">delete</mat-icon>
+        </button>
       </div>
     </div>
     }

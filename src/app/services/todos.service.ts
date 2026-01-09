@@ -16,4 +16,8 @@ export class TodosService {
     this._items.update((items) =>
       items.map((item) => item.id === id ? { ...item, completed: !item.completed } : item))
   }
+
+  remove(id: string) {
+    this._items.update((items) => items.filter((item) => item.id !== id));
+  }
 }
